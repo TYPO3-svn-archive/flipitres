@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Flip it! - Resources',
-	'description' => 'Flip it! - Resources. A collection of SWF sources and applications for the extension Flip it! For development only.',
+	'description' => 'The SWF source of the page flipping engine version 2.1.3',
 	'category' => 'backend',
 	'shy' => 0,
 	'version' => '0.0.1',
